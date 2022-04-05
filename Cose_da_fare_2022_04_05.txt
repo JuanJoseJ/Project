@@ -1,0 +1,4 @@
+Davide Aiello: Inventory
+Davide Anfossi: Quality
+Juan: Order Management
+Peppe:  Reply, Shipping, Confirm, Reject
